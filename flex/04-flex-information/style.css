@@ -3,13 +3,25 @@ body {
 }
 
 img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
 }
 
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 52px;
+}
+
+.container .text {
+  text-align: center;
 }
 
 /* do not edit this footer */
