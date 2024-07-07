@@ -25,6 +25,7 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+  flex: 1;
 }
 
 .left-links {
